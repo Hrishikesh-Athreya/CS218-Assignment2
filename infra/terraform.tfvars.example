@@ -1,0 +1,5 @@
+aws_region            = "us-west-2"
+cognito_domain_prefix = "replace-with-a-globally-unique-prefix"
+student_name          = "Your Name"
+student_aws_user_arn  = "arn:aws:iam::451789368151:user/hrishi-developer"
+
